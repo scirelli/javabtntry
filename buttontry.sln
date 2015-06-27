@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 1.00
+Project("{66355F20-A65B-11D0-BFB5-00A0C91EBFA0}") = "buttontry", "buttontry.vjp", "{6A45C336-F89F-4C04-8A47-A573F4FC818C}"
+EndProject
+Global
+	GlobalSection(LocalDeployment) = postSolution
+		StartupProject = {6A45C336-F89F-4C04-8A47-A573F4FC818C}
+	EndGlobalSection
+	GlobalSection(BuildOrder) = postSolution
+		0 = {6A45C336-F89F-4C04-8A47-A573F4FC818C}
+	EndGlobalSection
+	GlobalSection(DeploymentRoot) = postSolution
+	EndGlobalSection
+EndGlobal
